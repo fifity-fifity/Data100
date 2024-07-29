@@ -1,0 +1,211 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "branca",
+    "folium >=0.9.1",
+    "ipython",
+    "matplotlib-base >=3.0.0",
+    "numpy",
+    "pandas",
+    "plotly",
+    "python >=3.6",
+    "scipy",
+    "setuptools"
+  ],
+  "extracted_package_dir": "D:\\Anaconda\\pkgs\\datascience-0.17.6-pyhd8ed1ab_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/datascience-0.17.6.dist-info/INSTALLER",
+    "Lib/site-packages/datascience-0.17.6.dist-info/LICENSE",
+    "Lib/site-packages/datascience-0.17.6.dist-info/METADATA",
+    "Lib/site-packages/datascience-0.17.6.dist-info/RECORD",
+    "Lib/site-packages/datascience-0.17.6.dist-info/REQUESTED",
+    "Lib/site-packages/datascience-0.17.6.dist-info/WHEEL",
+    "Lib/site-packages/datascience-0.17.6.dist-info/direct_url.json",
+    "Lib/site-packages/datascience-0.17.6.dist-info/top_level.txt",
+    "Lib/site-packages/datascience/__init__.py",
+    "Lib/site-packages/datascience/formats.py",
+    "Lib/site-packages/datascience/geodata/geocode_states.csv",
+    "Lib/site-packages/datascience/maps.py",
+    "Lib/site-packages/datascience/predicates.py",
+    "Lib/site-packages/datascience/tables.py",
+    "Lib/site-packages/datascience/util.py",
+    "Lib/site-packages/datascience/version.py",
+    ".nonadmin",
+    "Lib/site-packages/datascience/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/datascience/__pycache__/formats.cpython-38.pyc",
+    "Lib/site-packages/datascience/__pycache__/maps.cpython-38.pyc",
+    "Lib/site-packages/datascience/__pycache__/predicates.cpython-38.pyc",
+    "Lib/site-packages/datascience/__pycache__/tables.cpython-38.pyc",
+    "Lib/site-packages/datascience/__pycache__/util.cpython-38.pyc",
+    "Lib/site-packages/datascience/__pycache__/version.cpython-38.pyc"
+  ],
+  "fn": "datascience-0.17.6-pyhd8ed1ab_0.conda",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "D:\\Anaconda\\pkgs\\datascience-0.17.6-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "532895bf3766ac6d8624fb1d03ec1970",
+  "name": "datascience",
+  "noarch": "python",
+  "package_tarball_full_path": "D:\\Anaconda\\pkgs\\datascience-0.17.6-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/datascience-0.17.6.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/datascience-0.17.6.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "410b0a49b9aaca562d1aca408b81c50870e581a11b935f9fe8bbd2963bd1e112",
+        "sha256_in_prefix": "410b0a49b9aaca562d1aca408b81c50870e581a11b935f9fe8bbd2963bd1e112",
+        "size_in_bytes": 1508
+      },
+      {
+        "_path": "site-packages/datascience-0.17.6.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "ba0092d52c251c8ec7b8ac320a3875f5309192004d75c23f9b1986e39443128f",
+        "sha256_in_prefix": "ba0092d52c251c8ec7b8ac320a3875f5309192004d75c23f9b1986e39443128f",
+        "size_in_bytes": 688
+      },
+      {
+        "_path": "site-packages/datascience-0.17.6.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "e46f034ee4a5f7e345ea177d8d3ab55dffde0bd71ba579f8a0645d2f44358e82",
+        "sha256_in_prefix": "e46f034ee4a5f7e345ea177d8d3ab55dffde0bd71ba579f8a0645d2f44358e82",
+        "size_in_bytes": 1712
+      },
+      {
+        "_path": "site-packages/datascience-0.17.6.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/datascience-0.17.6.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "sha256_in_prefix": "db07a93359e4e034b8785a58ad6d534ea3dca0635f1e184efe2e66e1c3a299ba",
+        "size_in_bytes": 92
+      },
+      {
+        "_path": "site-packages/datascience-0.17.6.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "4722cb8939b6e20a917d87558d1e44e2e5e736951822dc01996ff4091b7fb524",
+        "sha256_in_prefix": "4722cb8939b6e20a917d87558d1e44e2e5e736951822dc01996ff4091b7fb524",
+        "size_in_bytes": 107
+      },
+      {
+        "_path": "site-packages/datascience-0.17.6.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "fbce210e3b77959874bb37b003c5f95057fa6f6025520e9eeb4cdc34d12d629b",
+        "sha256_in_prefix": "fbce210e3b77959874bb37b003c5f95057fa6f6025520e9eeb4cdc34d12d629b",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "site-packages/datascience/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "63d43a58deec8c6ae3787d7c0dee45d1f25dfd8628f8e7029b8e8e6964948258",
+        "sha256_in_prefix": "63d43a58deec8c6ae3787d7c0dee45d1f25dfd8628f8e7029b8e8e6964948258",
+        "size_in_bytes": 145
+      },
+      {
+        "_path": "site-packages/datascience/formats.py",
+        "path_type": "hardlink",
+        "sha256": "3ca2c84691e2d70a86e7a9a05e3f9548ef7ab8c68b3cd6d71ad812c31e34f71d",
+        "sha256_in_prefix": "3ca2c84691e2d70a86e7a9a05e3f9548ef7ab8c68b3cd6d71ad812c31e34f71d",
+        "size_in_bytes": 5824
+      },
+      {
+        "_path": "site-packages/datascience/geodata/geocode_states.csv",
+        "path_type": "hardlink",
+        "sha256": "af560f1b6f3b14cbbd81a14955457ac386f331dcd2565cd040078ff4262416bf",
+        "sha256_in_prefix": "af560f1b6f3b14cbbd81a14955457ac386f331dcd2565cd040078ff4262416bf",
+        "size_in_bytes": 2238169
+      },
+      {
+        "_path": "site-packages/datascience/maps.py",
+        "path_type": "hardlink",
+        "sha256": "dd5a3af7b4f54f057a530b2ad886802f9036190725edd7e0f945409d25cf670e",
+        "sha256_in_prefix": "dd5a3af7b4f54f057a530b2ad886802f9036190725edd7e0f945409d25cf670e",
+        "size_in_bytes": 41319
+      },
+      {
+        "_path": "site-packages/datascience/predicates.py",
+        "path_type": "hardlink",
+        "sha256": "bc7aa37cebe5218e10fdac94994a889582adc497c24f2220cd029b094d4a3ca0",
+        "sha256_in_prefix": "bc7aa37cebe5218e10fdac94994a889582adc497c24f2220cd029b094d4a3ca0",
+        "size_in_bytes": 7173
+      },
+      {
+        "_path": "site-packages/datascience/tables.py",
+        "path_type": "hardlink",
+        "sha256": "d32ef3e4554af462a95561c0e84e593e26f39523669e2bfe9898e0e9559868e0",
+        "sha256_in_prefix": "d32ef3e4554af462a95561c0e84e593e26f39523669e2bfe9898e0e9559868e0",
+        "size_in_bytes": 245172
+      },
+      {
+        "_path": "site-packages/datascience/util.py",
+        "path_type": "hardlink",
+        "sha256": "42988250ffc6f2bc1a97c9a930e4f1ab75ab9881b26e91bcefb45d18a80a281f",
+        "sha256_in_prefix": "42988250ffc6f2bc1a97c9a930e4f1ab75ab9881b26e91bcefb45d18a80a281f",
+        "size_in_bytes": 8686
+      },
+      {
+        "_path": "site-packages/datascience/version.py",
+        "path_type": "hardlink",
+        "sha256": "eb9f4c217a24b6abdda52a14c20a3bf47d94be903b8f5de262304f9012837634",
+        "sha256_in_prefix": "eb9f4c217a24b6abdda52a14c20a3bf47d94be903b8f5de262304f9012837634",
+        "size_in_bytes": 23
+      },
+      {
+        "_path": "Lib/site-packages/datascience/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/datascience/__pycache__/formats.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/datascience/__pycache__/maps.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/datascience/__pycache__/predicates.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/datascience/__pycache__/tables.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/datascience/__pycache__/util.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/datascience/__pycache__/version.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "76db9503d014e97ce3f628fa0789013683671940a2c37c2f0bbb599d9c4b5891",
+  "size": 606426,
+  "subdir": "noarch",
+  "timestamp": 1677088254878,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/datascience-0.17.6-pyhd8ed1ab_0.conda",
+  "version": "0.17.6"
+}
